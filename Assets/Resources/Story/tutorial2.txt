@@ -1,0 +1,1 @@
+Sisyphus: Ah, a clean give and take! Remember that turns in battle always work as follows, every allied character gets to move or attack and then the enemy will move or attack if possible. A unit will take damage equal to the attacker's attack stat minus the defender's defence stat. Note that both of our health bars went down from the exchange. Now come at me again!
